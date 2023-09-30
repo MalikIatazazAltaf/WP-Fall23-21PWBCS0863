@@ -15,7 +15,7 @@ styling.css
 <b> My Name is Iatazaz</b> Im trying to learn html to design webpages.
 My goal is to become web developer.I am trying to learn this language from a website whose 
 link is <a href="https://www.w3schhols.com" target="_blank" title="Go to w3 schools"> Click here </a>. 
-My email address is <address> abc@gmail.com </address>
+My email address is <address> xyz@gmail.com </address>
 Interesting this about html is that you can write in both directions.
 <p style="color:red:"><bdo dir="rtl"> I am writing from right to left </bdo></p>
 Isn't it <q>cool</q>.
