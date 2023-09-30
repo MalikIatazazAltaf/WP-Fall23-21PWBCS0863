@@ -1,0 +1,12 @@
+h1{
+background-color:pink;
+color:red;
+}
+p{
+background-color:greenyellow;
+font-size:20px;
+}
+pre{
+background-color:greenyellow;
+font-size:20px;
+}
